@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="We Buy Testing" duration-ms="184481" started-at="2015-03-12T03:56:53Z" finished-at="2015-03-12T03:59:57Z">
+    <groups>
+    </groups>
+    <test name="We Buy" duration-ms="184481" started-at="2015-03-12T03:56:53Z" finished-at="2015-03-12T03:59:57Z">
+      <class name="WeBuy.WeBuy">
+        <test-method status="PASS" signature="testProductPurchseProcess()[pri:0, instance:WeBuy.WeBuy@1ffdf86]" name="testProductPurchseProcess" duration-ms="184466" started-at="2015-03-11T20:56:53Z" finished-at="2015-03-11T20:59:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductPurchseProcess -->
+      </class> <!-- WeBuy.WeBuy -->
+    </test> <!-- We Buy -->
+  </suite> <!-- We Buy Testing -->
+</testng-results>

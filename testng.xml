@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="We Buy Testing">
+
+
+
+
+<test name="We Buy">
+    <classes>
+        <class name="WeBuy.WeBuy" ></class>  
+    </classes>
+</test>
+
+
+</suite>
